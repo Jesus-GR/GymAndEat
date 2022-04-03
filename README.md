@@ -1,6 +1,8 @@
 # GymAndEat
 Aplicación final de curso
 
+
+
 Esta App desarrollada en IONIC será una continuación de la App que desarrollé en el primer trimestre.
 
 En la primera versión, no teníamos ni gestión de usuarios(registro,login,bbdd) y los alimentos se añadían a través de un json que cree yo mismo, por lo tanto era una aplicación bastante limitada.
